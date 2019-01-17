@@ -1,6 +1,6 @@
 /**
- * Author: Chris Bourke
- * Date: 2016/11/02
+ * Author: Alfredo Almaraz-Herrera
+ * Date: 2019/01/015
  *
  * A simple hello world program in C
  *
@@ -10,7 +10,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello World!\n");
+  printf("Alfredo Almaraz-Herrera\n");
+  printf("Art History\n");
 
   return 0;
 }
