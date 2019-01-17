@@ -11,7 +11,10 @@
 int main(int argc, char **argv) {
 
   printf("Alfredo Almaraz-Herrera\n");
-  printf("Art History\n");
+  printf("Computer Science\n");
+  
+  printf("Justin Jia Yinn Ho\n");
+  printf("Economics\n");
 
   return 0;
 }
